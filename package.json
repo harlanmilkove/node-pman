@@ -1,0 +1,27 @@
+{
+  "name": "node-pman",
+  "version": "0.0.1",
+  "description": "Heroku Postgres environment locally",
+  "bin": {
+    "pman": "./bin/cli"
+  },
+  "main": "./lib/pman.js",
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "heroku",
+    "postgres",
+    "pman"
+  ],
+  "author": "Guillermo A. Sanchez <memo.sanchez@gmail.com>",
+  "license": "none",
+  "dependencies": {
+    "optimist": "~0.6.0",
+    "lodash": "~1.3.1"
+  },
+  "devDependencies": {
+    "mocha": "~1.12.1"
+  }
+}

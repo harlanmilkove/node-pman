@@ -16,6 +16,10 @@
     "pman"
   ],
   "author": "Guillermo A. Sanchez <memo.sanchez@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:memosanchez/node-pman.git"
+  },
   "license": "none",
   "dependencies": {
     "optimist": "~0.6.0",

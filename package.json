@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Heroku Postgres environment locally",
   "bin": {
-    "pman": "./bin/cli"
+    "pman": "./bin/cli.js"
   },
   "main": "./lib/pman.js",
   "preferGlobal": true,

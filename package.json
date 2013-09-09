@@ -1,9 +1,9 @@
 {
   "name": "pman",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Heroku Postgres environment locally",
   "bin": {
-    "pman": "./bin/cli.js"
+    "pman": "./bin/pman-cli"
   },
   "main": "./lib/pman.js",
   "preferGlobal": true,
@@ -13,7 +13,8 @@
   "keywords": [
     "heroku",
     "postgres",
-    "pman"
+    "pman",
+    "cli"
   ],
   "author": "Guillermo A. Sanchez <memo.sanchez@gmail.com>",
   "repository": {

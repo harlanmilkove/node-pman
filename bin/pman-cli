@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var pman = require('../lib/pman')
 var argv = require('optimist')
   .string('app')

@@ -1,5 +1,5 @@
 {
-  "name": "node-pman",
+  "name": "pman",
   "version": "0.0.1",
   "description": "Heroku Postgres environment locally",
   "bin": {
